@@ -22,5 +22,7 @@ pip3 install openai
 pip3 install tkinter
 ```
 
+After that, run `main.py`
+
 You get a free OpenAI key when you create an account, to access it, go to https://platform.openai.com/account/api-keys
 
