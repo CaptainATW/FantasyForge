@@ -4,7 +4,7 @@
     <img alt="FantasyForge" height="300px" src="icon.png">
   </picture>
 </p>
-<h1 align="center">Create your own story</h1>
+<h1 align="center">Create your own story, powered by AI.</h1>
 
 
 Fantasy Forge is a text-based story game where you create a character and play as it, navigating through a fantastical world, and having control of your character's actions in the game. It uses gpt-3.5 turbo, and was coded with python. 
