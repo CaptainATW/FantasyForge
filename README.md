@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="icon.png">
-    <img alt="FantasyForge" height="96px" src="icon.png">
+    <img alt="FantasyForge" height="300px" src="icon.png">
   </picture>
 </p>
 <h1 align="center">Create your own story</h1>
