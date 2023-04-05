@@ -16,14 +16,14 @@ Download the .exe if you are on windows. If you are on mac, you will have to dow
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="image1.png">
-    <img alt="Demo2" height="250px" src="icon.png">
+    <img alt="Demo2" height="250px" src="image1.png">
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="image (3).png">
-    <img alt="Demo" height="250px" src="icon.png">
+    <img alt="Demo" height="250px" src="image (3).png">
   </picture>
 </p>
 
