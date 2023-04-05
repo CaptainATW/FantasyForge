@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="icon.png">
-    <img alt="FantasyForge" height="300px" src="icon.png">
+    <img alt="FantasyForge" height="250px" src="icon.png">
   </picture>
 </p>
 <h1 align="center">Create your own story, powered by AI.</h1>
@@ -12,6 +12,21 @@ Fantasy Forge is a text-based story game where you create a character and play a
 This project was created for Leland CS club hackathon.
 
 Download the .exe if you are on windows. If you are on mac, you will have to download the source code and install the dependencies.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="image1.png">
+    <img alt="Demo2" height="250px" src="icon.png">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="image (3).png">
+    <img alt="Demo" height="250px" src="icon.png">
+  </picture>
+</p>
+
 
 # Install instructions
 If you download the source code, you need your own API key, as well as importing the following (in command prompt):
