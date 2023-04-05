@@ -5,6 +5,9 @@ This project was created for Leland CS club hackathon.
 
 ### IMPORTANT: YOU MUST USE YOUR OWN OPENAI API KEY FOR THIS TO FUNCTION IF USING SOURCE CODE
 If you download the source code, you need your own API key, as well as importing the following (in command prompt):
+
+# Install instructions
+
 **For windows:** (Make sure you have python to install)
 ```
 pip install pillow
