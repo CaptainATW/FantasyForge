@@ -20,6 +20,8 @@ Download the .exe if you are on windows. If you are on mac, you will have to dow
 </div>
 
 # Install instructions
+You have two choices if you want to install and play Fantasy Forge. You can either install the source code and run the .py file, or you can go to releases and download the .exe. (For windows only)
+
 If you download the source code, you need your own API key, as well as importing the following (in command prompt):
 
 **For windows:** (Make sure you have python to install)
