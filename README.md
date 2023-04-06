@@ -13,20 +13,11 @@ This project was created for Leland CS club hackathon.
 
 Download the .exe if you are on windows. If you are on mac, you will have to download the source code and install the dependencies.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="image1.png">
-    <img alt="Demo2" height="250px" src="image1.png">
-  </picture>
-</p>
+<div style="text-align:center;">
+  <img src="image (3).png" style="margin-left:20px;width:40%;">
+  <img src="image1.png" style="margin-right:20px;width:40%;">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="image (3).png">
-    <img alt="Demo" height="250px" src="image (3).png">
-  </picture>
-</p>
-
+</div>
 
 # Install instructions
 If you download the source code, you need your own API key, as well as importing the following (in command prompt):
